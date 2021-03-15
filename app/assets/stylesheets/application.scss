@@ -59,6 +59,10 @@ html, body {
   background-color: white;
 }
 
+h1#main-text, p#main-text-p {
+//  color: white !important;
+}
+
 a {
   text-decoration: none !important;
   cursor: pointer;
@@ -89,7 +93,11 @@ a {
 }
 
 .background {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   background-color: $background-color;
+  padding-bottom: 120px;
 }
 
 .error-section {
