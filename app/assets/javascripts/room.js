@@ -392,7 +392,7 @@ function removePreuploadPresentation(path) {
 }
 
 function validFileUpload(file) {
-  return file.size/1024/1024 <= 3072;
+  return file.size/1024/1024 <= 3072
 }
 
 // Automatically click the join button if this is an action cable reload
