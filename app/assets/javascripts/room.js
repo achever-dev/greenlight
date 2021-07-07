@@ -107,7 +107,7 @@ $(document).on('turbolinks:load', function(){
     })
 
     // User selects an option from the Room Access dropdown
-w    $(".bootstrap-select").on("changed.bs.select", function(){
+    $(".bootstrap-select").on("changed.bs.select", function(){
       // Get the uid of the selected user
       let uid = $(".selectpicker").selectpicker('val')
 
