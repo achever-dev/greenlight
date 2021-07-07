@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1924" height="544.559" viewBox="0 0 1924 544.559">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8b4494" stop-opacity="0.529"/>
+      <stop offset="1" stop-color="#321251"/>
+    </linearGradient>
+  </defs>
+  <path id="bg-banner-hp" d="M2285,1131c11.029-.4,1924,201.38,1924,201.38v343.179H2285Z" transform="translate(4209 1675.558) rotate(180)" fill="url(#linear-gradient)"/>
+</svg>

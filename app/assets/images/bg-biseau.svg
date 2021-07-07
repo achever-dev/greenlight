@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="393" viewBox="0 0 1920 393">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#873c8f" stop-opacity="0.388"/>
+      <stop offset="0.389" stop-color="#662c77" stop-opacity="0.471"/>
+      <stop offset="1" stop-color="#321251"/>
+    </linearGradient>
+  </defs>
+  <g id="bg-biseau" transform="translate(0 -4499)">
+    <path id="Tracé_1353" data-name="Tracé 1353" d="M4205,1131c-11.005-.287-1920,145.333-1920,145.333V1524H4205Z" transform="translate(-2285 3368)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_784" data-name="Rectangle 784" width="25" height="25" transform="matrix(-0.407, -0.914, 0.914, -0.407, 1770.16, 4586.255)" fill="#e1e1e8" opacity="0.69"/>
+    <rect id="Rectangle_785" data-name="Rectangle 785" width="21" height="21" transform="matrix(-0.985, -0.174, 0.174, -0.985, 1833.354, 4707.488)" fill="#e1e1e8"/>
+    <rect id="Rectangle_786" data-name="Rectangle 786" width="51" height="51" transform="matrix(0.669, 0.743, -0.743, 0.669, 1802.875, 4592.687)" fill="#e1e1e8"/>
+  </g>
+</svg>
